@@ -19,7 +19,7 @@ A clean, minimalist schedule table for the **Feel At Home Brand Days** campaign 
 | Sep 14 | Mon | ASUS (2/2) |
 | Sep 15 | Tue | PlayStation (Sony) |
 | Sep 16 | Wed | Anker |
-| Sep 17 | Thu | Black & Decker |
+| Sep 17 | Thu | MeWe |
 | Sep 18 | Fri | Hisense |
 | Sep 21 | Mon | Zinox |
 | Sep 22 | Tue | HP |

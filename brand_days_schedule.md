@@ -18,7 +18,7 @@
 | **Sep 14** | Monday | **ASUS (2/2)** | ROG & TUF Gaming Tech |
 | **Sep 15** | Tuesday | **PlayStation (Sony)** | Consoles, Gaming & Accessories |
 | **Sep 16** | Wednesday | **Anker** | Chargers, Power & Audio |
-| **Sep 17** | Thursday | **Black & Decker** | Home Maintenance, Vacuums & DIY |
+| **Sep 17** | Thursday | **MeWe** | Smart Home, Living & Entertainment |
 | **Sep 18** | Friday | **Hisense** | Laser Cinema & Home Appliances |
 | **Sep 21** | Monday | **Zinox** | Local Computing & Enterprise Power |
 | **Sep 22** | Tuesday | **HP** | Laptops, Printers & Workstation Gear |
