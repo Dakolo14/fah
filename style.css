@@ -17,7 +17,7 @@ body {
 
 .wrapper {
   width: 100%;
-  max-width: 680px;
+  max-width: 860px;
 }
 
 .page-title {
@@ -33,7 +33,7 @@ body {
   background: #ffffff;
   border-radius: 12px;
   border: 1px solid #e5e7eb;
-  overflow: hidden;
+  overflow-x: auto;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
@@ -70,28 +70,53 @@ body {
 }
 
 .brand-table td {
-  padding: 15px 20px;
-  font-size: 15px;
+  padding: 14px 20px;
+  font-size: 14px;
   color: #111827;
   font-weight: 400;
 }
 
 .brand-table td:nth-child(1) {
-  width: 22%;
+  width: 14%;
   color: #374151;
+  white-space: nowrap;
 }
 
 .brand-table td:nth-child(2) {
-  width: 18%;
+  width: 11%;
   color: #4b5563;
+  white-space: nowrap;
 }
 
 .brand-table td:nth-child(3) {
-  width: 60%;
+  width: 25%;
   color: #111827;
+  font-weight: 500;
 }
 
-@media (max-width: 640px) {
+.brand-table td:nth-child(4) {
+  width: 50%;
+}
+
+.brand-link {
+  color: #2563eb;
+  text-decoration: none;
+  font-size: 13.5px;
+  font-family: inherit;
+  transition: color 0.15s ease;
+  word-break: break-all;
+}
+
+.brand-link:hover {
+  text-decoration: underline;
+  color: #1d4ed8;
+}
+
+.brand-link-muted {
+  color: #9ca3af;
+}
+
+@media (max-width: 768px) {
   body {
     padding: 1.5rem 0.75rem;
   }
@@ -99,6 +124,6 @@ body {
   .brand-table th,
   .brand-table td {
     padding: 12px 14px;
-    font-size: 14px;
+    font-size: 13px;
   }
 }
