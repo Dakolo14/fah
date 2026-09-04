@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f9fafb;
+  color: #111827;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 3rem 1.5rem;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 680px;
+}
+
+.page-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #111827;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.table-container {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.brand-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.brand-table thead tr {
+  background-color: #fce7f3;
+  border-bottom: 1px solid #fbcfe8;
+}
+
+.brand-table th {
+  padding: 14px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #9d174d;
+  letter-spacing: 0.01em;
+}
+
+.brand-table tbody tr {
+  border-bottom: 1px solid #f3f4f6;
+  transition: background-color 0.15s ease;
+}
+
+.brand-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.brand-table tbody tr:hover {
+  background-color: #f9fafb;
+}
+
+.brand-table td {
+  padding: 15px 20px;
+  font-size: 15px;
+  color: #111827;
+  font-weight: 400;
+}
+
+.brand-table td:nth-child(1) {
+  width: 22%;
+  color: #374151;
+}
+
+.brand-table td:nth-child(2) {
+  width: 18%;
+  color: #4b5563;
+}
+
+.brand-table td:nth-child(3) {
+  width: 60%;
+  color: #111827;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 1.5rem 0.75rem;
+  }
+
+  .brand-table th,
+  .brand-table td {
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+}
