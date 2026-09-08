@@ -6,10 +6,9 @@ A clean, minimalist schedule table for the **Feel At Home Brand Days** campaign 
 
 | Date | Day | Brand | Link |
 | :--- | :--- | :--- | :--- |
-| Sep 7 | Mon | LG | https://www.konga.com/merchant/229301 |
-| Sep 8 | Tue | Samsung (1/3) | https://www.konga.com/content/samsungsis |
-| Sep 9 | Wed | Samsung (2/3) | https://www.konga.com/content/samsungsis |
-| Sep 10 | Thu | Samsung (3/3) | https://www.konga.com/content/samsungsis |
+| Sep 8 | Tue | Samsung | https://www.konga.com/content/samsungsis |
+| Sep 9 | Wed | LG | https://www.konga.com/merchant/229301 |
+| Sep 10 | Thu | Samsung | https://www.konga.com/content/samsungsis |
 | Sep 11 | Fri | ASUS (1/2) | https://www.konga.com/content/asus-store |
 | Sep 14 | Mon | ASUS (2/2) | https://www.konga.com/content/asus-store |
 | Sep 15 | Tue | Sony | https://www.konga.com/brand/sony |
