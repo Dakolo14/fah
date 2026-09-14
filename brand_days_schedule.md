@@ -15,7 +15,7 @@
 | **Sep 10** | Thu | **Samsung** | https://www.konga.com/content/samsungsis |
 | **Sep 11** | Fri | **ASUS (1/2)** | https://www.konga.com/content/asus-store |
 | **Sep 14** | Mon | **ASUS (2/2)** | https://www.konga.com/content/asus-store |
-| **Sep 15** | Tue | **Sony** | https://www.konga.com/brand/sony |
+| **Sep 15** | Tue | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
 | **Sep 16** | Wed | **Anker** | https://www.konga.com/content/anker |
 | **Sep 17** | Thu | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
 | **Sep 18** | Fri | **Hisense** | https://www.konga.com/brand/hisense |
