@@ -17,7 +17,7 @@
 | **Sep 14** | Mon | **ASUS (2/2)** | https://www.konga.com/content/asus-store |
 | **Sep 15** | Tue | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
 | **Sep 16** | Wed | **Anker** | https://www.konga.com/content/anker |
-| **Sep 17** | Thu | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
+| **Sep 17** | Thu | **Zinox** | https://www.konga.com/merchant/249390 |
 | **Sep 18** | Fri | **Hisense** | https://www.konga.com/brand/hisense |
 | **Sep 21** | Mon | **Zinox** | https://www.konga.com/content/zinox |
 | **Sep 22** | Tue | **HP** | https://www.konga.com/brand/hp |
