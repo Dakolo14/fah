@@ -16,12 +16,12 @@
 | **Sep 11** | Fri | **ASUS (1/2)** | https://www.konga.com/content/asus-store |
 | **Sep 14** | Mon | **ASUS (2/2)** | https://www.konga.com/content/asus-store |
 | **Sep 15** | Tue | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
-| **Sep 16** | Wed | **Anker** | https://www.konga.com/content/anker |
-| **Sep 17** | Thu | **Zinox** | https://www.konga.com/merchant/249390 |
-| **Sep 18** | Fri | **Hisense** | https://www.konga.com/brand/hisense |
+| **Sep 16** | Wed | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
+| **Sep 17** | Thu | **Anker** | https://www.konga.com/content/anker |
+| **Sep 18** | Fri | **Zinox** | https://www.konga.com/content/zinox |
 | **Sep 21** | Mon | **Zinox** | https://www.konga.com/content/zinox |
 | **Sep 22** | Tue | **HP** | https://www.konga.com/brand/hp |
 | **Sep 23** | Wed | **CeraVe** | https://www.konga.com/content/cerave |
-| **Sep 24** | Thu | **Nivea** | https://www.konga.com/merchant/171328 |
-| **Sep 25** | Fri | **La Roche Posay** | https://www.konga.com/content/la-roche-posay |
-| **Sep 28** | Mon | **Nestle** | https://www.konga.com/merchant/232819 |
+| **Sep 24** | Thu | **La Roche Posay** | https://www.konga.com/content/la-roche-posay |
+| **Sep 25** | Fri | **Home Warehouse** | https://www.konga.com/merchant/249390 |
+| **Sep 28** | Mon | **Home Warehouse** | https://www.konga.com/merchant/249390 |
