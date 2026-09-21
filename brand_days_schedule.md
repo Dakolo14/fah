@@ -19,9 +19,9 @@
 | **Sep 16** | Wed | **MeWe** | https://www.konga.com/search?search=MEWEPRODUCTS |
 | **Sep 17** | Thu | **Anker** | https://www.konga.com/content/anker |
 | **Sep 18** | Fri | **Zinox** | https://www.konga.com/content/zinox |
-| **Sep 21** | Mon | **Zinox** | https://www.konga.com/content/zinox |
-| **Sep 22** | Tue | **HP** | https://www.konga.com/brand/hp |
-| **Sep 23** | Wed | **CeraVe** | https://www.konga.com/content/cerave |
-| **Sep 24** | Thu | **La Roche Posay** | https://www.konga.com/content/la-roche-posay |
+| **Sep 21** | Mon | **HP** | https://www.konga.com/brand/hp |
+| **Sep 22** | Tue | **CeraVe** | https://www.konga.com/content/cerave |
+| **Sep 23** | Wed | **La Roche Posay** | https://www.konga.com/content/la-roche-posay |
+| **Sep 24** | Thu | **ASUS** | https://www.konga.com/content/asus-store |
 | **Sep 25** | Fri | **Home Warehouse** | https://www.konga.com/merchant/249390 |
 | **Sep 28** | Mon | **Home Warehouse** | https://www.konga.com/merchant/249390 |
